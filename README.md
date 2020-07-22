@@ -15,4 +15,4 @@ Create and activate a virtual environment on the cloned template folder for deve
 <br/>`source drowsiness_detection-env/bin/activate`
 
 ## In your project directory, install required packages:
-pip install requirements.txt
+`pip install requirements.txt`
